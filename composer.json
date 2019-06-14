@@ -1,0 +1,16 @@
+{
+    "name": "administrador/projeto-novo",
+    "authors": [
+        {
+            "name": "Mateus",
+            "email": "mateusvinicio7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app",
+            "Core\\": "core"
+        }
+    }
+}
